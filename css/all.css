@@ -1,0 +1,59 @@
+body{
+    font-family: Microsoft JhengHei;
+}
+
+.btn{
+    border-width: 2px;
+  }
+  
+  .fontchange{
+    font-family: Microsoft JhengHei;
+  }
+
+  .bground{
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .carousel-caption{
+    background-color: rgba(0,0,0,0.5);
+    left: 25%;
+    right: 25%;
+  }
+
+  .carousel-caption h5{
+      font-size: 22px;
+      font-weight: bold;
+      color: #FF8C00;
+  }
+  
+  .bg-cover{
+    background-size: cover;
+    background-position: center;
+  }
+  
+  @media (min-width: 768px) { 
+    .text-white{
+        color: black !important;
+      } 
+    }
+
+#storeIntro h3{
+    color: #3CB371;
+    font-weight: bold;
+}
+
+#foodSource h3{
+    color: #3CB371;
+    font-weight: bold;
+}
+
+#foodSource i {
+    margin-left: 0.8rem;
+}
+
+#groupSale h3{
+    color: #3CB371;
+    font-weight: bold;
+}
