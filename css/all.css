@@ -44,6 +44,13 @@ body{
     font-weight: bold;
 }
 
+#newsUpdate img{
+    max-width: 20%;
+    max-height: 20%;
+    height: auto;
+    width: auto;
+}
+
 #foodSource h3{
     color: #3CB371;
     font-weight: bold;
